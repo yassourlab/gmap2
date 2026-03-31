@@ -1,0 +1,741 @@
+sample_id	visit_age_month	case_id	diet	symptoms	gender	probiotics_in_firstyr
+sub.271.0	0.6	AP Case	Formula	Symptomatic	Female	0
+sub.159.6	9	AP Case	No information	Resolved	Male	0
+sub.571.1	0.4	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.347.5	6.4	AP Case	No information	Resolved	Female	1
+sub.758.4	4.5	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.222.7	12.1	No AP	No information	Control	Female	1
+sub.192.7	12.7	No AP	No information	Control	Female	0
+sub.249.6	9.6	No AP	No information	Control	Male	0
+sub.577.1	0.3	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.278.11	1.3	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.615.14	2.3	AP Case	Formula	Symptomatic	Female	0
+sub.267.5	6.2	AP Case	Partially BF	Resolved	Male	0
+sub.670.4	4.2	No AP	Formula	Control	Male	0
+sub.639.2	1.2	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.729.0	0.2	AP Case	Partially BF	Pre-symptoms	Male	1
+sub.554.5	6.3	AP Case	Exclusively BF	Resolved	Male	1
+sub.711.2	1.1	No AP	Exclusively BF	Control	Male	0
+sub.144.11	4.2	AP Case	Exclusively BF	Resolved	Male	0
+sub.209.2	1	No AP	Exclusively BF	Control	Female	0
+sub.84.2	0.8	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.569.14	5.2	AP Case	No information	Resolved	Male	1
+sub.272.1	0.5	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.46.2	1.1	No AP	Partially BF	Control	Male	0
+sub.28.1	0.4	AP Case	Formula	Pre-symptoms	Female	1
+sub.735.1	0.4	No AP	Exclusively BF	Control	Male	0
+sub.310.5	6.7	AP Case	No information	Resolved	Female	1
+sub.358.0	0.2	AP Case	Partially BF	Pre-symptoms	Female	1
+sub.733.2	1.1	AP Case	Exclusively BF	Symptomatic	Male	0
+sub.97.4	3.9	No AP	Exclusively BF	Control	Male	0
+sub.569.2	1	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.233.2	1	No AP	Partially BF	Control	Male	0
+sub.28.3	2.1	AP Case	Formula	Resolved	Female	1
+sub.360.2	0.9	No AP	Formula	Control	Male	0
+sub.526.15	3.2	AP Case	Formula	Resolved	Male	1
+sub.370.11	3.9	No AP	Partially BF	Control	Male	0
+sub.144.6	9.1	AP Case	No information	Resolved	Male	0
+sub.527.3	2.3	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.53.3	2	No AP	Partially BF	Control	Male	0
+sub.711.0	0.3	No AP	Exclusively BF	Control	Male	0
+sub.604.1	0.5	AP Case	Exclusively BF	Pre-symptoms	Male	0
+sub.434.2	1.1	AP Case	Exclusively BF	Pre-symptoms	Female	0
+sub.247.11	1.3	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.782.15	1.8	AP Case	Exclusively BF	Symptomatic	Female	0
+sub.197.2	0.9	No AP	Exclusively BF	Control	Female	0
+sub.527.4	4.5	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.663.6	9.1	AP Case	No information	Resolved	Male	1
+sub.278.3	2.2	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.470.5	7.3	No AP	No information	Control	Male	0
+sub.94.11	5.4	AP Case	Exclusively BF	Resolved	Female	1
+sub.13.7	12.4	AP Case	No information	Resolved	Male	1
+sub.571.15	5.3	AP Case	No information	Symptomatic	Female	1
+sub.273.3	2.3	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.686.0	0.4	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.454.6	9.2	AP Case	No information	Resolved	Male	1
+sub.312.4	4.1	No AP	Partially BF	Control	Male	0
+sub.440.2	1.3	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.569.13	4.9	AP Case	Partially BF	Resolved	Male	1
+sub.601.12	3.1	AP Case	Exclusively BF	Resolved	Female	1
+sub.601.1	0.4	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.162.1	0.5	No AP	Exclusively BF	Control	Female	0
+sub.445.2	1.1	AP Case	Formula	Symptomatic	Female	1
+sub.563.4	4.1	No AP	Exclusively BF	Control	Female	0
+sub.60.6	9.1	AP Case	No information	Resolved	Male	1
+sub.733.4	4	AP Case	Exclusively BF	Symptomatic	Male	0
+sub.571.14	5	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.304.12	1.5	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.405.7	12.1	AP Case	No information	Resolved	Female	1
+sub.790.5	6.2	AP Case	No information	Resolved	Male	0
+sub.110.1	0.5	No AP	Exclusively BF	Control	Female	0
+sub.53.4	4.3	No AP	Partially BF	Control	Male	0
+sub.31.6	9.2	No AP	No information	Control	Male	0
+sub.676.12	12.9	No AP	No information	Control	Female	0
+sub.670.6	9.7	No AP	No information	Control	Male	0
+sub.758.5	7	AP Case	Exclusively BF	Resolved	Female	1
+sub.309.3	2	No AP	Exclusively BF	Control	Female	0
+sub.436.5	6.1	No AP	Exclusively BF	Control	Female	0
+sub.431.15	9.3	AP Case	No information	Resolved	Male	1
+sub.434.4	4	AP Case	Exclusively BF	Symptomatic	Female	0
+sub.310.2	1	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.454.2	1	AP Case	Formula	Symptomatic	Male	1
+sub.5.4	4.1	AP Case	Formula	Symptomatic	Male	1
+sub.55.3	2.1	No AP	Exclusively BF	Control	Female	0
+sub.526.6	9.4	AP Case	No information	Resolved	Male	1
+sub.454.13	8.4	AP Case	No information	Resolved	Male	1
+sub.475.4	4.1	No AP	Exclusively BF	Control	Female	0
+sub.8.1	0.5	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.655.11	1.3	AP Case	Exclusively BF	Symptomatic	Female	0
+sub.541.4	4.3	No AP	Exclusively BF	Control	Male	0
+sub.394.2	1.1	No AP	Exclusively BF	Control	Male	1
+sub.321.4	3.9	No AP	Formula	Control	Female	0
+sub.5.2	0.9	AP Case	Formula	Symptomatic	Male	1
+sub.427.2	1	No AP	Partially BF	Control	Female	0
+sub.533.3	1.9	AP Case	Formula	Symptomatic	Male	1
+sub.615.2	1	AP Case	Formula	Symptomatic	Female	0
+sub.665.3	2.1	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.134.3	2.1	No AP	Formula	Control	Male	0
+sub.271.5	6.2	AP Case	No information	Symptomatic	Female	0
+sub.659.4	3.9	No AP	Exclusively BF	Control	Female	0
+sub.304.4	3.9	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.376.1	0.5	No AP	Exclusively BF	Control	Male	0
+sub.711.3	2.1	No AP	Exclusively BF	Control	Male	0
+sub.29.4	4	AP Case	Formula	Resolved	Male	1
+sub.184.2	1	AP Case	Exclusively BF	Symptomatic	Male	0
+sub.192.4	4	No AP	Partially BF	Control	Female	0
+sub.370.1	0.4	No AP	Exclusively BF	Control	Male	0
+sub.222.13	7.4	No AP	No information	Control	Female	1
+sub.524.2	1	No AP	Exclusively BF	Control	Female	0
+sub.708.1	0.7	No AP	Exclusively BF	Control	Female	1
+sub.454.1	0.4	AP Case	Formula	Symptomatic	Male	1
+sub.729.2	0.9	AP Case	Formula	Symptomatic	Male	1
+sub.630.4	4.1	No AP	Formula	Control	Male	0
+sub.384.0	0.1	No AP	Exclusively BF	Control	Female	1
+sub.376.0	0.2	No AP	Exclusively BF	Control	Male	0
+sub.57.1	0.5	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.735.2	0.9	No AP	Exclusively BF	Control	Male	0
+sub.760.5	7	No AP	Formula	Control	Male	NA
+sub.554.19	6.1	AP Case	Exclusively BF	Resolved	Male	1
+sub.535.1	0.4	AP Case	Partially BF	Pre-symptoms	Female	1
+sub.655.13	3.2	AP Case	Exclusively BF	Symptomatic	Female	0
+sub.360.3	2	No AP	Formula	Control	Male	0
+sub.659.6	9.2	No AP	No information	Control	Female	0
+sub.233.5	6	No AP	Exclusively BF	Control	Male	0
+sub.226.5	6.7	No AP	Formula	Control	Male	0
+sub.272.13	3	AP Case	Partially BF	Symptomatic	Male	1
+sub.9.7	12.6	No AP	No information	Control	Male	0
+sub.782.2	0.9	AP Case	Partially BF	Symptomatic	Female	0
+sub.527.15	5.7	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.728.6	9	AP Case	No information	Resolved	Male	1
+sub.247.17	10.8	AP Case	No information	Resolved	Female	1
+sub.310.3	2	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.24.3	2.1	No AP	Exclusively BF	Control	Female	0
+sub.533.12	9.2	AP Case	No information	Resolved	Male	1
+sub.669.6	9.2	AP Case	No information	Resolved	Female	1
+sub.110.3	2.1	No AP	Exclusively BF	Control	Female	0
+sub.527.0	0.1	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.226.4	4.1	No AP	Formula	Control	Male	0
+sub.630.0	0.2	No AP	Formula	Control	Male	0
+sub.225.2	1	No AP	Partially BF	Control	Female	0
+sub.585.15	5.3	AP Case	Exclusively BF	Resolved	Male	1
+sub.422.7	12.3	No AP	No information	Control	Male	1
+sub.604.5	7	AP Case	Exclusively BF	Resolved	Male	0
+sub.431.16	10.2	AP Case	No information	Resolved	Male	1
+sub.535.2	1.1	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.427.5	6.3	No AP	Formula	Control	Female	0
+sub.554.24	8.7	AP Case	No information	Resolved	Male	1
+sub.280.3	2.2	No AP	Exclusively BF	Control	Male	0
+sub.541.6	11.7	No AP	No information	Control	Male	0
+sub.526.24	10.5	AP Case	No information	Resolved	Male	1
+sub.90.7	12.2	AP Case	No information	Resolved	Female	1
+sub.278.1	0.6	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.665.13	2.5	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.347.6	9.3	AP Case	No information	Resolved	Female	1
+sub.247.2	0.9	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.445.4	4.2	AP Case	Formula	Resolved	Female	1
+sub.657.6	9	No AP	No information	Control	Female	0
+sub.410.1	0.3	No AP	Exclusively BF	Control	Female	0
+sub.511.3	2	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.666.6	9.3	No AP	No information	Control	Male	0
+sub.282.0	0.4	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.431.5	6.1	AP Case	Exclusively BF	Resolved	Male	1
+sub.321.6	9.2	No AP	No information	Control	Female	0
+sub.246.2	1	AP Case	Exclusively BF	Pre-symptoms	Female	0
+sub.439.2	0.9	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.247.12	3.6	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.394.7	13.3	No AP	No information	Control	Male	1
+sub.749.5	6.1	No AP	Exclusively BF	Control	Female	0
+sub.179.4	4.1	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.321.0	0.3	No AP	Exclusively BF	Control	Female	0
+sub.639.0	0.3	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.652.11	4.4	No AP	Partially BF	Control	Male	1
+sub.535.4	4.3	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.149.2	1	No AP	Partially BF	Control	Male	0
+sub.14.6	9.4	No AP	No information	Control	Female	0
+sub.667.4	3.9	AP Case	Formula	Symptomatic	Female	0
+sub.484.2	1	No AP	Exclusively BF	Control	Male	1
+sub.782.16	2.2	AP Case	Exclusively BF	Symptomatic	Female	0
+sub.84.4	4	AP Case	Exclusively BF	Resolved	Male	1
+sub.99.0	0.2	No AP	Partially BF	Control	Female	0
+sub.422.0	0.8	No AP	Partially BF	Control	Male	1
+sub.711.11	0.7	No AP	Exclusively BF	Control	Male	0
+sub.665.17	10.3	AP Case	No information	Resolved	Female	1
+sub.782.6	9.1	AP Case	No information	Resolved	Female	0
+sub.615.22	12.9	AP Case	No information	Symptomatic	Female	0
+sub.222.3	2.2	No AP	Formula	Control	Female	1
+sub.278.0	0.1	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.349.4	4.1	AP Case	Partially BF	Resolved	Female	1
+sub.272.14	5.5	AP Case	Partially BF	Resolved	Male	1
+sub.527.12	2.1	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.358.2	0.9	AP Case	Formula	Symptomatic	Female	1
+sub.278.15	8.6	AP Case	No information	Resolved	Male	1
+sub.209.4	3.9	No AP	Exclusively BF	Control	Female	0
+sub.364.4	4.2	No AP	Exclusively BF	Control	Male	0
+sub.110.6	9.2	No AP	No information	Control	Female	0
+sub.290.6	9.7	AP Case	No information	Resolved	Female	1
+sub.526.18	6	AP Case	Formula	Resolved	Male	1
+sub.299.6	9.2	No AP	No information	Control	Male	1
+sub.758.2	1.3	AP Case	Partially BF	Symptomatic	Female	1
+sub.731.2	1	No AP	Exclusively BF	Control	Male	0
+sub.78.3	2.1	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.179.11	5	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.309.1	0.5	No AP	Exclusively BF	Control	Female	0
+sub.731.0	0.3	No AP	Exclusively BF	Control	Male	0
+sub.526.20	8	AP Case	No information	Resolved	Male	1
+sub.237.12	1.1	AP Case	Formula	Symptomatic	Male	1
+sub.535.14	4.6	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.731.3	2.1	No AP	Exclusively BF	Control	Male	0
+sub.709.4	4	No AP	Exclusively BF	Control	Male	0
+sub.524.4	4.1	No AP	Exclusively BF	Control	Female	0
+sub.586.11	0.7	AP Case	Partially BF	Pre-symptoms	Female	NA
+sub.708.5	6.4	No AP	Exclusively BF	Control	Female	1
+sub.573.11	0.3	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.434.0	0.4	AP Case	Exclusively BF	Pre-symptoms	Female	0
+sub.97.3	2.1	No AP	Partially BF	Control	Male	0
+sub.585.19	12.7	AP Case	No information	Resolved	Male	1
+sub.397.7	12.5	No AP	No information	Control	Male	0
+sub.247.0	0.2	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.184.1	0.6	AP Case	Exclusively BF	Pre-symptoms	Male	0
+sub.666.5	6.3	No AP	Exclusively BF	Control	Male	0
+sub.226.3	2.2	No AP	Formula	Control	Male	0
+sub.222.15	7.5	No AP	No information	Control	Female	1
+sub.299.0	0.2	No AP	Exclusively BF	Control	Male	1
+sub.470.6	9.2	No AP	No information	Control	Male	0
+sub.731.11	0.4	No AP	Exclusively BF	Control	Male	0
+sub.781.13	1.9	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.90.6	9.1	AP Case	No information	Resolved	Female	1
+sub.422.5	6.2	No AP	Exclusively BF	Control	Male	1
+sub.349.7	12.2	AP Case	No information	Resolved	Female	1
+sub.28.2	0.8	AP Case	Formula	Symptomatic	Female	1
+sub.360.0	0.4	No AP	Formula	Control	Male	0
+sub.554.17	5.7	AP Case	Exclusively BF	Resolved	Male	1
+sub.667.6	9.3	AP Case	No information	Resolved	Female	0
+sub.416.6	9.4	No AP	No information	Control	Female	0
+sub.162.11	3.1	No AP	Exclusively BF	Control	Female	0
+sub.438.11	1.7	No AP	Formula	Control	Male	1
+sub.541.2	1.1	No AP	Exclusively BF	Control	Male	0
+sub.29.7	12.3	AP Case	No information	Resolved	Male	1
+sub.484.3	2.2	No AP	Exclusively BF	Control	Male	1
+sub.573.12	0.9	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.99.4	4.7	No AP	Exclusively BF	Control	Female	0
+sub.431.13	4.7	AP Case	Exclusively BF	Resolved	Male	1
+sub.20.6	9.2	No AP	No information	Control	Male	0
+sub.665.0	0.5	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.676.4	4.2	No AP	Partially BF	Control	Female	0
+sub.111.3	2.2	No AP	Exclusively BF	Control	Male	0
+sub.188.3	2	No AP	Exclusively BF	Control	Male	1
+sub.110.0	0.2	No AP	Exclusively BF	Control	Female	0
+sub.670.11	5.7	No AP	Formula	Control	Male	0
+sub.267.11	4.3	AP Case	Partially BF	Symptomatic	Male	0
+sub.666.4	4	No AP	Exclusively BF	Control	Male	0
+sub.422.4	4.2	No AP	Exclusively BF	Control	Male	1
+sub.5.0	0.2	AP Case	Formula	Pre-symptoms	Male	1
+sub.655.12	1.5	AP Case	Exclusively BF	Symptomatic	Female	0
+sub.511.2	0.9	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.111.2	1.1	No AP	Exclusively BF	Control	Male	0
+sub.716.3	2.1	AP Case	Formula	Symptomatic	Female	1
+sub.760.2	0.8	No AP	Exclusively BF	Control	Male	NA
+sub.577.3	1.9	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.99.1	0.4	No AP	Exclusively BF	Control	Female	0
+sub.527.6	9.8	AP Case	No information	Resolved	Male	1
+sub.192.5	6.1	No AP	Partially BF	Control	Female	0
+sub.358.11	0.6	AP Case	Formula	Symptomatic	Female	1
+sub.46.3	1.8	No AP	Exclusively BF	Control	Male	0
+sub.97.0	0.2	No AP	Partially BF	Control	Male	0
+sub.307.7	12.1	AP Case	No information	Resolved	Female	1
+sub.440.6	9.1	AP Case	No information	Resolved	Female	1
+sub.260.0	0.4	No AP	Exclusively BF	Control	Male	0
+sub.179.6	8.9	AP Case	No information	Resolved	Female	1
+sub.237.4	4.8	AP Case	Formula	Resolved	Male	1
+sub.470.14	10.5	No AP	No information	Control	Male	0
+sub.267.3	2	AP Case	Exclusively BF	Symptomatic	Male	0
+sub.247.5	7.1	AP Case	No information	Resolved	Female	1
+sub.569.4	4.3	AP Case	Partially BF	Resolved	Male	1
+sub.271.6	9.2	AP Case	No information	Symptomatic	Female	0
+sub.571.6	9.2	AP Case	No information	Resolved	Female	1
+sub.312.2	1.1	No AP	Exclusively BF	Control	Male	0
+sub.436.1	0.4	No AP	Exclusively BF	Control	Female	0
+sub.179.7	11.8	AP Case	No information	Resolved	Female	1
+sub.728.17	9.7	AP Case	No information	Resolved	Male	1
+sub.431.6	9.1	AP Case	No information	Resolved	Male	1
+sub.159.13	11.6	AP Case	No information	Resolved	Male	0
+sub.159.1	0.4	AP Case	Formula	Symptomatic	Male	0
+sub.511.12	5	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.665.18	10.8	AP Case	No information	Resolved	Female	1
+sub.638.6	9.1	AP Case	No information	Resolved	Male	1
+sub.427.0	0.6	No AP	Partially BF	Control	Female	0
+sub.290.12	6.9	AP Case	No information	Resolved	Female	1
+sub.601.11	1.3	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.686.7	12.2	AP Case	No information	Resolved	Male	1
+sub.134.1	0.7	No AP	Formula	Control	Male	0
+sub.652.7	12.3	No AP	No information	Control	Male	1
+sub.84.3	2	AP Case	Exclusively BF	Resolved	Male	1
+sub.58.1	0.4	No AP	Exclusively BF	Control	Male	0
+sub.312.6	9.1	No AP	No information	Control	Male	0
+sub.686.2	1.1	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.249.1	0.3	No AP	Exclusively BF	Control	Male	0
+sub.225.11	11.3	No AP	No information	Control	Female	0
+sub.573.16	3.1	AP Case	Partially BF	Resolved	Female	1
+sub.275.1	0.5	No AP	Exclusively BF	Control	Male	0
+sub.573.2	1.2	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.13.4	4.1	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.226.2	1.4	No AP	Formula	Control	Male	0
+sub.89.13	12.7	AP Case	No information	Resolved	Male	1
+sub.310.12	1.2	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.585.12	1.6	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.164.6	9.1	No AP	No information	Control	Male	0
+sub.470.11	0.9	No AP	Exclusively BF	Control	Male	0
+sub.749.4	4.1	No AP	Exclusively BF	Control	Female	0
+sub.97.7	12.1	No AP	No information	Control	Male	0
+sub.621.3	1.9	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.304.2	1.1	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.28.11	0.6	AP Case	Formula	Pre-symptoms	Female	1
+sub.45.7	12.6	AP Case	No information	Symptomatic	Female	0
+sub.222.4	4.1	No AP	Formula	Control	Female	1
+sub.97.5	6.4	No AP	No information	Control	Male	0
+sub.209.3	2.1	No AP	Exclusively BF	Control	Female	0
+sub.431.1	0.6	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.267.7	12.6	AP Case	No information	Resolved	Male	0
+sub.573.3	1.8	AP Case	Partially BF	Symptomatic	Female	1
+sub.384.11	0.2	No AP	Exclusively BF	Control	Female	1
+sub.422.3	2	No AP	Partially BF	Control	Male	1
+sub.431.0	0.1	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.237.11	2.8	AP Case	Formula	Resolved	Male	1
+sub.179.1	0.5	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.571.4	4.2	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.394.11	0.7	No AP	Exclusively BF	Control	Male	1
+sub.209.1	0.5	No AP	Partially BF	Control	Female	0
+sub.358.6	8.5	AP Case	No information	Resolved	Female	1
+sub.429.1	0.5	No AP	Partially BF	Control	Female	1
+sub.247.13	5.4	AP Case	No information	Symptomatic	Female	1
+sub.657.5	6.4	No AP	No information	Control	Female	0
+sub.2.11	7.7	AP Case	No information	Resolved	Female	1
+sub.535.6	9.3	AP Case	No information	Resolved	Female	1
+sub.571.16	3.6	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.511.13	5.5	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.639.4	4	AP Case	Exclusively BF	Resolved	Male	1
+sub.621.14	7.4	AP Case	No information	Resolved	Male	1
+sub.671.7	12.2	No AP	No information	Control	Female	0
+sub.782.13	1.4	AP Case	Partially BF	Symptomatic	Female	0
+sub.424.5	6.6	No AP	Formula	Control	Female	0
+sub.464.6	9.2	AP Case	No information	Resolved	Male	1
+sub.139.6	9.2	No AP	No information	Control	Male	1
+sub.408.7	12.1	AP Case	No information	Resolved	Male	0
+sub.290.2	0.9	AP Case	Partially BF	Resolved	Female	1
+sub.438.7	12.3	No AP	No information	Control	Male	1
+sub.436.4	4.3	No AP	Exclusively BF	Control	Female	0
+sub.188.6	8.4	No AP	No information	Control	Male	1
+sub.364.6	9.2	No AP	No information	Control	Male	0
+sub.526.21	8.9	AP Case	No information	Resolved	Male	1
+sub.728.12	2.7	AP Case	Exclusively BF	Resolved	Male	1
+sub.272.11	2.3	AP Case	Partially BF	Symptomatic	Male	1
+sub.228.12	11.8	AP Case	No information	Resolved	Female	1
+sub.272.6	9.4	AP Case	No information	Resolved	Male	1
+sub.563.0	0.1	No AP	Exclusively BF	Control	Female	0
+sub.563.2	1.2	No AP	Exclusively BF	Control	Female	0
+sub.666.3	1.9	No AP	Exclusively BF	Control	Male	0
+sub.57.11	5.3	AP Case	Formula	Symptomatic	Male	1
+sub.554.23	7.5	AP Case	No information	Resolved	Male	1
+sub.665.15	3	AP Case	Exclusively BF	Resolved	Female	1
+sub.728.5	6.2	AP Case	Exclusively BF	Resolved	Male	1
+sub.663.7	12.1	AP Case	No information	Resolved	Male	1
+sub.733.3	2.1	AP Case	Exclusively BF	Symptomatic	Male	0
+sub.408.2	1.1	AP Case	Exclusively BF	Symptomatic	Male	0
+sub.237.1	0.5	AP Case	Formula	Pre-symptoms	Male	1
+sub.394.1	0.4	No AP	Exclusively BF	Control	Male	1
+sub.535.0	0.2	AP Case	Partially BF	Pre-symptoms	Female	1
+sub.20.1	0.7	No AP	Exclusively BF	Control	Male	0
+sub.394.6	9.4	No AP	No information	Control	Male	1
+sub.454.11	1.2	AP Case	Formula	Symptomatic	Male	1
+sub.46.4	4.1	No AP	Formula	Control	Male	0
+sub.53.7	12.2	No AP	No information	Control	Male	0
+sub.429.11	8.7	No AP	No information	Control	Female	1
+sub.671.4	4	No AP	Exclusively BF	Control	Female	0
+sub.439.0	0.2	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.782.12	1.3	AP Case	Partially BF	Symptomatic	Female	0
+sub.535.15	10.6	AP Case	No information	Resolved	Female	1
+sub.364.3	2.2	No AP	Exclusively BF	Control	Male	0
+sub.777.6	9.1	No AP	No information	Control	Female	0
+sub.571.11	3.1	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.692.13	10	AP Case	No information	Resolved	Female	0
+sub.8.6	9	AP Case	No information	Resolved	Male	1
+sub.585.18	5.3	AP Case	Exclusively BF	Resolved	Male	1
+sub.271.4	4.3	AP Case	Formula	Symptomatic	Female	0
+sub.735.4	4.3	No AP	Exclusively BF	Control	Male	0
+sub.165.4	4.4	No AP	Partially BF	Control	Male	1
+sub.526.12	2.1	AP Case	Formula	Symptomatic	Male	1
+sub.184.6	9.2	AP Case	No information	Resolved	Male	0
+sub.31.3	2.3	No AP	Formula	Control	Male	0
+sub.290.4	4	AP Case	Partially BF	Resolved	Female	1
+sub.247.3	2	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.464.3	2	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.45.4	4.1	AP Case	Exclusively BF	Symptomatic	Female	0
+sub.431.11	2.2	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.585.17	7.1	AP Case	No information	Resolved	Male	1
+sub.24.6	9	No AP	No information	Control	Female	0
+sub.652.0	0.3	No AP	Partially BF	Control	Male	1
+sub.358.13	1.3	AP Case	Formula	Symptomatic	Female	1
+sub.615.19	10	AP Case	No information	Symptomatic	Female	0
+sub.139.1	0.4	No AP	Exclusively BF	Control	Male	1
+sub.475.5	6.1	No AP	Exclusively BF	Control	Female	0
+sub.643.15	7.5	AP Case	No information	Symptomatic	Female	1
+sub.431.14	7.3	AP Case	No information	Resolved	Male	1
+sub.222.0	0.2	No AP	Partially BF	Control	Female	1
+sub.165.5	6.1	No AP	Partially BF	Control	Male	1
+sub.16.12	12.9	AP Case	No information	Resolved	Female	1
+sub.708.4	4.1	No AP	Exclusively BF	Control	Female	1
+sub.667.3	2.9	AP Case	Partially BF	Symptomatic	Female	0
+sub.89.4	4.3	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.99.3	2	No AP	Exclusively BF	Control	Female	0
+sub.246.3	2	AP Case	Exclusively BF	Pre-symptoms	Female	0
+sub.134.2	1.4	No AP	Formula	Control	Male	0
+sub.554.20	7.3	AP Case	No information	Resolved	Male	1
+sub.571.5	7	AP Case	No information	Resolved	Female	1
+sub.585.0	0.5	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.638.0	0.2	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.709.3	2	No AP	Exclusively BF	Control	Male	0
+sub.20.3	1.8	No AP	Exclusively BF	Control	Male	0
+sub.429.4	4.1	No AP	Exclusively BF	Control	Female	1
+sub.431.3	1.9	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.355.6	9.2	No AP	No information	Control	Male	0
+sub.78.1	0.5	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.439.21	10.9	AP Case	No information	Resolved	Female	1
+sub.526.22	9.7	AP Case	No information	Resolved	Male	1
+sub.260.4	4.1	No AP	Partially BF	Control	Male	0
+sub.604.2	0.9	AP Case	Exclusively BF	Pre-symptoms	Male	0
+sub.554.2	1.1	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.615.21	11.8	AP Case	No information	Symptomatic	Female	0
+sub.416.4	4.1	No AP	Exclusively BF	Control	Female	0
+sub.282.2	1	AP Case	Partially BF	Symptomatic	Male	1
+sub.2.2	1.1	AP Case	Formula	Symptomatic	Female	1
+sub.9.0	0.2	No AP	Partially BF	Control	Male	0
+sub.729.5	6.2	AP Case	Partially BF	Resolved	Male	1
+sub.2.14	10.7	AP Case	No information	Resolved	Female	1
+sub.278.5	6.4	AP Case	Exclusively BF	Resolved	Male	1
+sub.55.5	6.5	No AP	Partially BF	Control	Female	0
+sub.67.4	4.2	No AP	Exclusively BF	Control	Female	0
+sub.275.2	1.1	No AP	Exclusively BF	Control	Male	0
+sub.655.4	3.9	AP Case	Exclusively BF	Symptomatic	Female	0
+sub.290.3	1.9	AP Case	Partially BF	Resolved	Female	1
+sub.639.6	8.6	AP Case	No information	Resolved	Male	1
+sub.586.4	4.1	AP Case	Partially BF	Resolved	Female	NA
+sub.692.12	5.2	AP Case	Formula	Resolved	Female	0
+sub.655.5	6.2	AP Case	No information	Resolved	Female	0
+sub.535.7	12.2	AP Case	No information	Resolved	Female	1
+sub.424.0	0.5	No AP	Exclusively BF	Control	Female	0
+sub.198.1	0.5	AP Case	Formula	Symptomatic	Male	0
+sub.55.6	9	No AP	No information	Control	Female	0
+sub.524.11	9.2	No AP	No information	Control	Female	0
+sub.527.11	1.7	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.615.7	12.3	AP Case	No information	Symptomatic	Female	0
+sub.554.7	12.6	AP Case	No information	Resolved	Male	1
+sub.498.2	1.4	No AP	Partially BF	Control	Female	1
+sub.46.7	12.2	No AP	No information	Control	Male	0
+sub.475.3	2	No AP	Exclusively BF	Control	Female	0
+sub.758.3	2.4	AP Case	Partially BF	Symptomatic	Female	1
+sub.526.5	6.2	AP Case	Formula	Resolved	Male	1
+sub.615.20	10.7	AP Case	No information	Symptomatic	Female	0
+sub.790.0	0.4	AP Case	Exclusively BF	Pre-symptoms	Male	0
+sub.665.14	2.6	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.439.18	9.6	AP Case	No information	Resolved	Female	1
+sub.577.6	9.3	AP Case	No information	Resolved	Male	1
+sub.655.14	7.8	AP Case	No information	Resolved	Female	0
+sub.554.22	8.9	AP Case	No information	Resolved	Male	1
+sub.422.6	9.4	No AP	No information	Control	Male	1
+sub.445.5	6.2	AP Case	Formula	Resolved	Female	1
+sub.2.12	8.9	AP Case	No information	Resolved	Female	1
+sub.454.0	0.2	AP Case	Formula	Symptomatic	Male	1
+sub.665.4	4.1	AP Case	Exclusively BF	Resolved	Female	1
+sub.84.0	0.1	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.97.2	1.1	No AP	Exclusively BF	Control	Male	0
+sub.31.1	0.5	No AP	Partially BF	Control	Male	0
+sub.45.3	2.1	AP Case	Exclusively BF	Symptomatic	Female	0
+sub.384.2	1.1	No AP	Exclusively BF	Control	Female	1
+sub.165.3	1.9	No AP	Partially BF	Control	Male	1
+sub.484.6	9.5	No AP	No information	Control	Male	1
+sub.89.12	9.2	AP Case	No information	Resolved	Male	1
+sub.367.13	10.9	AP Case	No information	Resolved	Male	1
+sub.31.2	1.2	No AP	Formula	Control	Male	0
+sub.571.3	2	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.78.6	9.5	AP Case	No information	Symptomatic	Male	1
+sub.665.2	1	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.405.0	3.2	AP Case	Formula	Resolved	Female	1
+sub.192.2	0.9	No AP	Partially BF	Control	Female	0
+sub.58.3	2.1	No AP	Exclusively BF	Control	Male	0
+sub.29.6	9.1	AP Case	No information	Resolved	Male	1
+sub.569.3	1.9	AP Case	Partially BF	Resolved	Male	1
+sub.316.6	9.1	AP Case	No information	Resolved	Male	1
+sub.434.3	2	AP Case	Exclusively BF	Symptomatic	Female	0
+sub.2.15	11.4	AP Case	No information	Resolved	Female	1
+sub.164.0	0.2	No AP	Exclusively BF	Control	Male	0
+sub.273.5	6.2	AP Case	No information	Symptomatic	Female	1
+sub.24.5	6.7	No AP	Partially BF	Control	Female	0
+sub.282.6	9.2	AP Case	No information	Resolved	Male	1
+sub.358.12	1.5	AP Case	Formula	Symptomatic	Female	1
+sub.111.6	9.3	No AP	No information	Control	Male	0
+sub.321.2	1	No AP	Exclusively BF	Control	Female	0
+sub.197.0	0.2	No AP	Exclusively BF	Control	Female	0
+sub.198.6	9.1	AP Case	No information	Resolved	Male	0
+sub.615.15	3.1	AP Case	Formula	Symptomatic	Female	0
+sub.615.17	5.1	AP Case	Formula	Symptomatic	Female	0
+sub.397.2	0.8	No AP	Exclusively BF	Control	Male	0
+sub.111.1	0.4	No AP	Exclusively BF	Control	Male	0
+sub.90.3	2.1	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.639.7	12.3	AP Case	No information	Resolved	Male	1
+sub.111.4	4	No AP	Exclusively BF	Control	Male	0
+sub.304.3	1.8	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.394.3	2.1	No AP	Exclusively BF	Control	Male	1
+sub.271.2	1.1	AP Case	Formula	Symptomatic	Female	0
+sub.162.4	4.1	No AP	Exclusively BF	Control	Female	0
+sub.299.5	6	No AP	Exclusively BF	Control	Male	1
+sub.436.2	1.1	No AP	Exclusively BF	Control	Female	0
+sub.29.3	2.1	AP Case	Exclusively BF	Resolved	Male	1
+sub.601.2	0.9	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.233.7	12.4	No AP	No information	Control	Male	0
+sub.272.5	6.6	AP Case	Partially BF	Resolved	Male	1
+sub.144.0	0.3	AP Case	Partially BF	Pre-symptoms	Male	0
+sub.782.4	4.2	AP Case	Exclusively BF	Symptomatic	Female	0
+sub.577.2	1.1	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.16.7	12.2	AP Case	No information	Resolved	Female	1
+sub.376.6	9.2	No AP	No information	Control	Male	0
+sub.20.0	0.2	No AP	Exclusively BF	Control	Male	0
+sub.267.6	9.1	AP Case	No information	Resolved	Male	0
+sub.554.3	2.4	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.729.12	1.5	AP Case	Formula	Symptomatic	Male	1
+sub.427.4	4.1	No AP	Formula	Control	Female	0
+sub.659.3	2.1	No AP	Exclusively BF	Control	Female	0
+sub.249.2	0.9	No AP	Exclusively BF	Control	Male	0
+sub.615.18	7.2	AP Case	No information	Symptomatic	Female	0
+sub.247.15	8.3	AP Case	No information	Resolved	Female	1
+sub.94.3	2.1	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.716.2	1.1	AP Case	Formula	Symptomatic	Female	1
+sub.222.12	6.4	No AP	No information	Control	Female	1
+sub.197.7	12.8	No AP	No information	Control	Female	0
+sub.669.2	1.1	AP Case	Formula	Symptomatic	Female	1
+sub.9.6	9.2	No AP	No information	Control	Male	0
+sub.438.0	0.2	No AP	Partially BF	Control	Male	1
+sub.316.5	6.6	AP Case	Exclusively BF	Resolved	Male	1
+sub.2.4	4.1	AP Case	Formula	Symptomatic	Female	1
+sub.139.2	1.1	No AP	Partially BF	Control	Male	1
+sub.758.6	9.8	AP Case	No information	Resolved	Female	1
+sub.781.11	0.6	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.97.1	0.7	No AP	Exclusively BF	Control	Male	0
+sub.760.12	0.6	No AP	Exclusively BF	Control	Male	NA
+sub.643.12	2.7	AP Case	Formula	Symptomatic	Female	1
+sub.233.4	3.9	No AP	Partially BF	Control	Male	0
+sub.273.6	9.1	AP Case	No information	Resolved	Female	1
+sub.78.4	4.1	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.692.5	6.2	AP Case	Formula	Resolved	Female	0
+sub.188.5	6	No AP	Exclusively BF	Control	Male	1
+sub.669.4	3.9	AP Case	Formula	Resolved	Female	1
+sub.498.4	4	No AP	Partially BF	Control	Female	1
+sub.643.4	3.9	AP Case	Formula	Symptomatic	Female	1
+sub.408.4	4	AP Case	Exclusively BF	Resolved	Male	0
+sub.179.13	6.7	AP Case	Exclusively BF	Resolved	Female	1
+sub.347.1	0.4	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.439.12	1.1	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.439.5	6.2	AP Case	Exclusively BF	Resolved	Female	1
+sub.657.3	2.1	No AP	Exclusively BF	Control	Female	0
+sub.760.3	1.9	No AP	Exclusively BF	Control	Male	NA
+sub.110.5	6.5	No AP	Exclusively BF	Control	Female	0
+sub.24.2	1	No AP	Exclusively BF	Control	Female	0
+sub.165.1	0.5	No AP	Formula	Control	Male	1
+sub.58.2	1.1	No AP	Exclusively BF	Control	Male	0
+sub.188.1	0.4	No AP	Exclusively BF	Control	Male	1
+sub.57.4	4.2	AP Case	Partially BF	Symptomatic	Male	1
+sub.360.7	12.1	No AP	No information	Control	Male	0
+sub.571.2	0.9	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.360.6	11	No AP	No information	Control	Male	0
+sub.60.1	0.4	AP Case	Formula	Symptomatic	Male	1
+sub.615.0	0.3	AP Case	Formula	Symptomatic	Female	0
+sub.711.1	0.5	No AP	Exclusively BF	Control	Male	0
+sub.749.11	0.3	No AP	Exclusively BF	Control	Female	0
+sub.405.4	4.1	AP Case	Formula	Resolved	Female	1
+sub.439.19	10.3	AP Case	No information	Resolved	Female	1
+sub.728.16	9.5	AP Case	No information	Resolved	Male	1
+sub.90.5	6.2	AP Case	Formula	Resolved	Female	1
+sub.655.0	0.2	AP Case	Exclusively BF	Pre-symptoms	Female	0
+sub.90.12	4.8	AP Case	Formula	Resolved	Female	1
+sub.439.20	10.8	AP Case	No information	Resolved	Female	1
+sub.586.0	0.2	AP Case	Exclusively BF	Pre-symptoms	Female	NA
+sub.164.4	4.1	No AP	Exclusively BF	Control	Male	0
+sub.2.13	10.2	AP Case	No information	Resolved	Female	1
+sub.676.3	2	No AP	Partially BF	Control	Female	0
+sub.708.3	1.6	No AP	Exclusively BF	Control	Female	1
+sub.665.19	10.8	AP Case	No information	Resolved	Female	1
+sub.222.1	0.4	No AP	Formula	Control	Female	1
+sub.225.0	0.1	No AP	Exclusively BF	Control	Female	0
+sub.526.11	1.8	AP Case	Formula	Symptomatic	Male	1
+sub.728.3	1.9	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.526.23	10.4	AP Case	No information	Resolved	Male	1
+sub.445.6	9.2	AP Case	No information	Resolved	Female	1
+sub.672.12	2.4	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.358.14	4.4	AP Case	Formula	Resolved	Female	1
+sub.527.1	0.5	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.676.2	0.9	No AP	Partially BF	Control	Female	0
+sub.20.4	3.9	No AP	Exclusively BF	Control	Male	0
+sub.431.17	12.9	AP Case	No information	Resolved	Male	1
+sub.205.11	3.1	No AP	Exclusively BF	Control	Male	NA
+sub.454.4	4.6	AP Case	Formula	Resolved	Male	1
+sub.90.13	9.9	AP Case	No information	Resolved	Female	1
+sub.716.6	9.1	AP Case	No information	Symptomatic	Female	1
+sub.273.2	1	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.733.6	8.8	AP Case	No information	Resolved	Male	0
+sub.53.6	9.9	No AP	No information	Control	Male	0
+sub.13.5	6.6	AP Case	Exclusively BF	Resolved	Male	1
+sub.782.1	0.4	AP Case	Partially BF	Pre-symptoms	Female	0
+sub.585.13	1.2	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.601.4	4	AP Case	Exclusively BF	Resolved	Female	1
+sub.790.2	1.3	AP Case	Partially BF	Symptomatic	Male	0
+sub.692.4	4.1	AP Case	Formula	Symptomatic	Female	0
+sub.2.17	12.6	AP Case	No information	Resolved	Female	1
+sub.484.11	1	No AP	Exclusively BF	Control	Male	1
+sub.272.2	1.1	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.440.12	8.5	AP Case	No information	Resolved	Female	1
+sub.78.0	0.2	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.527.16	7.8	AP Case	No information	Resolved	Male	1
+sub.67.3	2	No AP	Exclusively BF	Control	Female	0
+sub.14.7	12.1	No AP	No information	Control	Female	0
+sub.192.1	0.5	No AP	Partially BF	Control	Female	0
+sub.280.0	0.4	No AP	Exclusively BF	Control	Male	0
+sub.89.11	5.9	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.586.1	0.5	AP Case	Partially BF	Pre-symptoms	Female	NA
+sub.280.6	9	No AP	No information	Control	Male	0
+sub.526.7	12.5	AP Case	No information	Resolved	Male	1
+sub.554.1	0.4	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.738.2	1	No AP	Formula	Control	Male	1
+sub.159.4	4.2	AP Case	Formula	Symptomatic	Male	0
+sub.94.6	9.2	AP Case	No information	Resolved	Female	1
+sub.312.0	0.5	No AP	Partially BF	Control	Male	0
+sub.711.4	5.6	No AP	No information	Control	Male	0
+sub.410.2	1	No AP	Exclusively BF	Control	Female	0
+sub.14.4	4.1	No AP	Formula	Control	Female	0
+sub.144.5	6.1	AP Case	Exclusively BF	Resolved	Male	0
+sub.665.16	3.3	AP Case	Exclusively BF	Resolved	Female	1
+sub.282.3	2.1	AP Case	Partially BF	Symptomatic	Male	1
+sub.110.2	1	No AP	Exclusively BF	Control	Female	0
+sub.671.3	1.9	No AP	Exclusively BF	Control	Female	0
+sub.309.6	9	No AP	No information	Control	Female	0
+sub.31.4	4.1	No AP	Formula	Control	Male	0
+sub.164.2	1.1	No AP	Exclusively BF	Control	Male	0
+sub.615.5	6.2	AP Case	Formula	Symptomatic	Female	0
+sub.90.4	4.1	AP Case	Formula	Symptomatic	Female	1
+sub.260.6	9.6	No AP	No information	Control	Male	0
+sub.438.1	0.4	No AP	Exclusively BF	Control	Male	1
+sub.405.14	10.3	AP Case	No information	Resolved	Female	1
+sub.535.3	2.3	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.299.3	1.9	No AP	Exclusively BF	Control	Male	1
+sub.429.6	9.2	No AP	No information	Control	Female	1
+sub.310.6	9	AP Case	No information	Resolved	Female	1
+sub.162.6	9.3	No AP	No information	Control	Female	0
+sub.666.0	0.2	No AP	Exclusively BF	Control	Male	0
+sub.471.1	0.5	No AP	Exclusively BF	Control	Male	0
+sub.436.0	0.2	No AP	Partially BF	Control	Female	0
+sub.676.11	2.1	No AP	Partially BF	Control	Female	0
+sub.349.3	1.7	AP Case	Partially BF	Symptomatic	Female	1
+sub.666.7	12.3	No AP	No information	Control	Male	0
+sub.427.6	9	No AP	No information	Control	Female	0
+sub.621.4	4.1	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.571.17	8	AP Case	No information	Resolved	Female	1
+sub.670.12	11.6	No AP	No information	Control	Male	0
+sub.716.12	11.2	AP Case	No information	Resolved	Female	1
+sub.96.2	1.1	No AP	Formula	Control	Male	0
+sub.271.7	12	AP Case	No information	Symptomatic	Female	0
+sub.370.5	6.2	No AP	Partially BF	Control	Male	0
+sub.162.3	2	No AP	Exclusively BF	Control	Female	0
+sub.471.4	4.2	No AP	Exclusively BF	Control	Male	0
+sub.149.3	2	No AP	Partially BF	Control	Male	0
+sub.164.3	1.9	No AP	Exclusively BF	Control	Male	0
+sub.470.3	1.8	No AP	Exclusively BF	Control	Male	0
+sub.197.3	2	No AP	Exclusively BF	Control	Female	0
+sub.585.16	5.9	AP Case	Exclusively BF	Resolved	Male	1
+sub.222.2	1.1	No AP	Formula	Control	Female	1
+sub.708.11	9.9	No AP	No information	Control	Female	1
+sub.652.4	4.1	No AP	Partially BF	Control	Male	1
+sub.464.4	4.1	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.225.6	9.3	No AP	No information	Control	Female	0
+sub.526.14	4.1	AP Case	Formula	Resolved	Male	1
+sub.275.3	2	No AP	Exclusively BF	Control	Male	0
+sub.554.13	0.9	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.408.6	9.1	AP Case	No information	Resolved	Male	0
+sub.247.16	10.1	AP Case	No information	Resolved	Female	1
+sub.60.5	6.3	AP Case	No information	Resolved	Male	1
+sub.67.2	1	No AP	Exclusively BF	Control	Female	0
+sub.96.4	4	No AP	Formula	Control	Male	0
+sub.655.3	2	AP Case	Exclusively BF	Symptomatic	Female	0
+sub.643.1	0.5	AP Case	Formula	Symptomatic	Female	1
+sub.55.2	1	No AP	Exclusively BF	Control	Female	0
+sub.307.6	9.5	AP Case	No information	Resolved	Female	1
+sub.604.3	2.1	AP Case	Exclusively BF	Resolved	Male	0
+sub.67.7	12	No AP	No information	Control	Female	0
+sub.692.0	0.5	AP Case	Formula	Pre-symptoms	Female	0
+sub.554.16	5.4	AP Case	Exclusively BF	Resolved	Male	1
+sub.2.16	11.5	AP Case	No information	Resolved	Female	1
+sub.2.6	9.5	AP Case	No information	Resolved	Female	1
+sub.585.6	9	AP Case	No information	Resolved	Male	1
+sub.159.3	1.9	AP Case	Formula	Symptomatic	Male	0
+sub.273.12	8.5	AP Case	No information	Resolved	Female	1
+sub.535.12	0.6	AP Case	Partially BF	Pre-symptoms	Female	1
+sub.760.4	3.9	No AP	Formula	Control	Male	NA
+sub.630.6	9.1	No AP	No information	Control	Male	0
+sub.29.11	7.6	AP Case	No information	Resolved	Male	1
+sub.671.6	8.5	No AP	No information	Control	Female	0
+sub.686.3	2.2	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.134.4	4.1	No AP	Formula	Control	Male	0
+sub.78.2	1.1	AP Case	Exclusively BF	Pre-symptoms	Male	1
+sub.321.7	12.1	No AP	No information	Control	Female	0
+sub.16.5	6.2	AP Case	Formula	Resolved	Female	1
+sub.405.13	8	AP Case	No information	Resolved	Female	1
+sub.716.11	1.3	AP Case	Formula	Symptomatic	Female	1
+sub.436.6	9.3	No AP	No information	Control	Female	0
+sub.533.11	1.6	AP Case	Formula	Symptomatic	Male	1
+sub.554.6	9.1	AP Case	No information	Resolved	Male	1
+sub.84.1	0.4	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.735.6	9.6	No AP	No information	Control	Male	0
+sub.397.6	9.3	No AP	No information	Control	Male	0
+sub.58.0	0.2	No AP	Exclusively BF	Control	Male	0
+sub.144.3	1.9	AP Case	Exclusively BF	Symptomatic	Male	0
+sub.728.11	2.6	AP Case	Exclusively BF	Resolved	Male	1
+sub.781.3	2	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.728.2	1.1	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.695.6	8.9	AP Case	No information	Resolved	Female	1
+sub.749.2	1.1	No AP	Exclusively BF	Control	Female	0
+sub.571.12	3.7	AP Case	Exclusively BF	Symptomatic	Female	1
+sub.99.2	1.1	No AP	Exclusively BF	Control	Female	0
+sub.275.0	0.2	No AP	Exclusively BF	Control	Male	0
+sub.13.2	1.3	AP Case	Exclusively BF	Symptomatic	Male	1
+sub.663.5	6.2	AP Case	Exclusively BF	Resolved	Male	1
+sub.394.0	0.2	No AP	Exclusively BF	Control	Male	1
+sub.526.13	2.7	AP Case	Formula	Symptomatic	Male	1
+sub.5.3	1.8	AP Case	Formula	Symptomatic	Male	1
+sub.90.1	0.4	AP Case	Exclusively BF	Pre-symptoms	Female	1
+sub.16.6	9.7	AP Case	No information	Resolved	Female	1
+sub.554.21	8.1	AP Case	No information	Resolved	Male	1
+sub.586.12	3.1	AP Case	Partially BF	Symptomatic	Female	NA
+sub.667.13	6.7	AP Case	No information	Resolved	Female	0
+sub.2.1	0.4	AP Case	Formula	Symptomatic	Female	1
+sub.364.2	1	No AP	Exclusively BF	Control	Male	0
+sub.692.11	1.4	AP Case	Formula	Symptomatic	Female	0
+sub.29.5	6.7	AP Case	Formula	Resolved	Male	1
+sub.184.4	4.2	AP Case	Exclusively BF	Resolved	Male	0
+sub.222.14	7.9	No AP	No information	Control	Female	1
